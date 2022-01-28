@@ -19,4 +19,4 @@ To learn more about Next.js, take a look at the following resources:
 
 # Deploy on Vercel
 
-Deploy your Next JS app through [vercel](https://vercel.com/) 
+Deploy your Next JS app through [vercel](https://vercel.com/), the creaters of Next JS
