@@ -15,3 +15,6 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 To learn more about Next.js, take a look at the following resources:
 
 [Next JS Documentation](https://nextjs.org/docs)
+[Next JS Tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
+
+
