@@ -2,3 +2,9 @@ This is a blog page I built with Next JS (React framework) following a tutorial 
 # Getting Started
 First, run the development server:
 
+```
+npm run dev
+# or
+yarn dev
+
+```
